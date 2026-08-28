@@ -4,7 +4,7 @@
 
 ## 在线 Demo
 
-> ⏳ 部署后在此填入 GitHub Pages 链接
+> **在线体验**：https://zhoujy0927.github.io/teemaker-3d-teaching/
 
 ## 预览
 
