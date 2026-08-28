@@ -8,7 +8,7 @@
 
 ## 预览
 
-> ⏳ 部署后填入预览图
+![5 个机械概念教具](docs/teemaker-preview.png)
 
 ## 这是什么
 
