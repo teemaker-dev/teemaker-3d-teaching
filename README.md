@@ -4,7 +4,7 @@
 
 ## 在线 Demo
 
-> **在线体验**：https://zhoujy0927.github.io/teemaker-3d-teaching/
+> **在线体验**：https://teemaker-dev.github.io/teemaker-3d-teaching/
 
 ## 预览
 
